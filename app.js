@@ -1,0 +1,1 @@
+console.log('Bem-vindo ao site do FC Porto!');
